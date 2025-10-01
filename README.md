@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I'm Cintia Alfaro 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cintiaalfaro29.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/cintiaalfaro29.svg?style=social&label=Follow)](https://github.com/cintiaalfaro29-hash?tab=followers)<br/>
 
-<!--
-**cintiaalfaro29/cintiaalfaro29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width=300px alt="women_in_pc" src="https://images.freeimages.com/image/previews/5a7/tech-girl-laptop-silhouette-5692092.png?fmt=webp&h=350" />
 
-Here are some ideas to get you started:
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 💻 Soy desarrolladora Front-end en continuo aprendizaje.
+ 
+ - 📚 Y autodidacta, así que siempre busco la forma de aprender nuevas habilidades y poder crecer profesionalmente en el mundo del desarrollo web.
+<br>
+<h2 >Tecnologías que uso 👩‍💻</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,nodejs,github)](https://skillicons.dev)
+<br>
+
+
