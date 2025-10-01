@@ -7,11 +7,11 @@
 
  - 💻 Soy desarrolladora Front-end en continuo aprendizaje.
  
- - 📚 Y autodidacta, así que siempre busco la forma de aprender nuevas habilidades y poder crecer profesionalmente en el mundo del desarrollo web.
-<br>
-<h2 >Tecnologías que uso 👩‍💻</h2>
+ - 📚 Y autodidacta, así que siempre busco la forma de aprender nuevas tecnologías y habilidades para poder crecer profesionalmente en el mundo del desarrollo web.
+
+## Tecnologías que uso 👩‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,nodejs,github)](https://skillicons.dev)
-<br>
+
 
 
