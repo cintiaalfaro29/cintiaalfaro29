@@ -3,13 +3,13 @@
 
 <img align="right" width=300px alt="women_in_pc" src="https://images.freeimages.com/image/previews/5a7/tech-girl-laptop-silhouette-5692092.png?fmt=webp&h=350" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
- - 💻 Soy desarrolladora Front-end en continuo aprendizaje.
+ - 💻 I am a Front-end developer in continuous learning.
  
- - 📚 Y autodidacta, así que siempre busco la forma de aprender nuevas tecnologías y habilidades para poder crecer profesionalmente en el mundo del desarrollo web.
+ - 📚 And self-taught, so I always look for ways to learn new technologies and skills to be able to grow professionally in the world of web development.
 
-## Tecnologías que uso 👩‍💻
+## Technologies I use 👩‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,nodejs,github)](https://skillicons.dev)
 
